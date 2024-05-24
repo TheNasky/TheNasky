@@ -25,7 +25,7 @@ Contacto: [TheNasky@gmail.com](mailto:thenasky@gmail.com)
 #### ⭐️ Frontend:
 <p>
 <img src="https://github.com/TheNasky/About-Me/blob/main/React.svg" alt="React" width="40" height=40"/>
-<img src="https://github.com/TheNasky/About-Me/blob/main/NextJs.svg" alt="NextJs" width="40" height=40"/>.
+<img src="https://github.com/TheNasky/About-Me/blob/main/NextJs.svg" alt="NextJs" width="40" height=40"/>
 <img src="https://github.com/TheNasky/About-Me/blob/main/Vue.svg" alt="Vue" width="40" height=40"/>
 <img src="https://github.com/TheNasky/About-Me/blob/main/Vite.svg" alt="Vite" width="40" height=40"/>
 <img src="https://github.com/TheNasky/About-Me/blob/main/Tailwind.svg" alt="Tailwind CSS" width="40" height=40"/>
