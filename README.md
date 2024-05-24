@@ -5,7 +5,7 @@
 ### Desarrollador Web FullStack🔥
 
 [![Linkedin](https://img.shields.io/badge/-Valentín%20Ballesteros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valent%C3%ADn-ballesteros/)](https://www.linkedin.com/in/valent%C3%ADn-ballesteros/) [![Portfolio](https://img.shields.io/badge/My%20-%20Portfolio%20-%20purple
-)](https://valentinballesteros2023.vercel.app/) ![](https://komarev.com/ghpvc/?username=TheNasky&label=Visitas+al+Perfil)
+)](https://valentinballesteros2023.vercel.app/) ![](https://komarev.com/ghpvc/?username=TheNasky&label=Visitas+al+Perfil&abbreviated=true)
 <br></br>
 Contacto: [TheNasky@gmail.com](mailto:thenasky@gmail.com)
 
