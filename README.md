@@ -60,7 +60,7 @@ Contacto: [TheNasky@gmail.com](mailto:thenasky@gmail.com)
 
 #### ☁️ Cloud
 <p>
-<img src="https://github.com/TheNasky/About-Me/blob/main/aws.svg" alt="AWS" width="40" height=40"/>&nbsp
+<img src="https://github.com/TheNasky/About-Me/blob/main/aws.svg" alt="AWS" width="40" height=40"/>&nbsp;&nbsp;
 <img src="https://github.com/TheNasky/About-Me/blob/main/Docker.svg" alt="Docker" width="40" height=40"/>&nbsp
 <img src="https://github.com/TheNasky/About-Me/blob/main/Firebase.svg" alt="Firebase" width="40" height=40"/>
 
