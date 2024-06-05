@@ -14,11 +14,11 @@ Contacto: [TheNasky@gmail.com](mailto:thenasky@gmail.com)
 
 ### 📕 Un poco sobre mi:
 
+-  🛠️ Soy Desarrollador Web Full Stack con 1 año y medio de experiencia
+-  👨‍💻 Inglés Oral y Escrito nivel C2 (Nativo).
+-  ⭐️ Experiencia con diversas tecnologías tanto FrontEnd como BackEnd.
+-  📊 Experiencia En diseño UX/UI y en Diseño Grafico con Adobe Photoshop y Adobe Premiere
 -  📙 Soy Estudiante Universitario
--  👨‍💻 Titulado de inglés nivel C2.
--  🛠️ 1 año y medio de experiencia como desarrollador Full Stack
--  ⭐️ Experiencia como Desarrollador FullStack con especialidad en BackEnd.
--  📊 Tengo experiencia En diseño UX/UI y en Diseño Grafico con Adobe Photoshop y Adobe Premiere
 <br></br>
 ### 🔧 Tecnologías que manejo
 
