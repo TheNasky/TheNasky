@@ -5,7 +5,7 @@
 ### Desarrollador Web FullStack🔥
 
 [![Linkedin](https://img.shields.io/badge/-Valentín%20Ballesteros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valent%C3%ADn-ballesteros/)](https://www.linkedin.com/in/valent%C3%ADn-ballesteros/) [![Portfolio](https://img.shields.io/badge/My%20-%20Portfolio%20-%20purple
-)](https://valentinballesteros2023.vercel.app/) ![](https://komarev.com/ghpvc/?username=TheNasky&label=Visitas+al+Perfil&abbreviated=true)
+)](https://valentinballesteros2023.vercel.app/) ![](https://komarev.com/ghpvc/?username=TheNasky&label=Visitas+al+Perfil)
 <br></br>
 Contacto: [TheNasky@gmail.com](mailto:thenasky@gmail.com)
 
@@ -14,11 +14,11 @@ Contacto: [TheNasky@gmail.com](mailto:thenasky@gmail.com)
 
 ### 📕 Un poco sobre mi:
 
--  🛠️ Soy Desarrollador Web Full Stack con 1 año y medio de experiencia
--  👨‍💻 Inglés Oral y Escrito nivel C2 (Nativo).
--  ⭐️ Experiencia con diversas tecnologías tanto FrontEnd como BackEnd.
--  📊 Experiencia En diseño UX/UI y en Diseño Grafico con Adobe Photoshop y Adobe Premiere
 -  📙 Soy Estudiante Universitario
+-  👨‍💻 Titulado de inglés nivel C2.
+-  🛠️ 1 año y medio de experiencia como desarrollador Full Stack
+-  ⭐️ Experiencia como Desarrollador FullStack con especialidad en BackEnd.
+-  📊 Tengo experiencia En diseño UX/UI y en Diseño Grafico con Adobe Photoshop y Adobe Premiere
 <br></br>
 ### 🔧 Tecnologías que manejo
 
@@ -60,8 +60,8 @@ Contacto: [TheNasky@gmail.com](mailto:thenasky@gmail.com)
 
 #### ☁️ Cloud
 <p>
-<img src="https://github.com/TheNasky/About-Me/blob/main/aws.svg" alt="AWS" width="40" height=40"/>&nbsp;&nbsp;
-<img src="https://github.com/TheNasky/About-Me/blob/main/Docker.svg" alt="Docker" width="40" height=40"/>&nbsp
+<img src="https://github.com/TheNasky/About-Me/blob/main/aws.svg" alt="AWS" width="40" height=40"/>
+<img src="https://github.com/TheNasky/About-Me/blob/main/Docker.svg" alt="Docker" width="40" height=40"/>
 <img src="https://github.com/TheNasky/About-Me/blob/main/Firebase.svg" alt="Firebase" width="40" height=40"/>
 
 </p>
